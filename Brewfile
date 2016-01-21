@@ -1,4 +1,5 @@
 tap 'caskroom/fonts'
+tap 'brew tap Goles/battery'
 
 cask '1password'
 cask 'adobe-creative-cloud'
@@ -33,7 +34,6 @@ brew 'htop-osx'
 brew 'hub'
 brew 'macvim', args: ['override-system-vim']
 brew 'memcached'
-brew 'mysql'
 brew 'node'
 brew 'openssl'
 brew 'postgresql'
