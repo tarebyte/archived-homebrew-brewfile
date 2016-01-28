@@ -32,6 +32,7 @@ brew 'git'
 brew 'heroku-toolbelt'
 brew 'htop-osx'
 brew 'hub'
+brew 'jq'
 brew 'macvim', args: ['override-system-vim']
 brew 'memcached'
 brew 'node'
